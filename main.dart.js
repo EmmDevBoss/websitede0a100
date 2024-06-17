@@ -37617,7 +37617,7 @@ av(){var s=this,r=A.asn(B.aU,new A.abc(s))
 s.x=r
 r.P(0,s.ga0L())
 s.aM()},
-I(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="images/de0a100_logo.png",g="Sobre Mi",f="Biografia",e=new A.fM(a)
+I(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="assets/images/de0a100_logo.png",g="Sobre Mi",f="Biografia",e=new A.fM(a)
 e.hJ(a)
 j.r=e
 j.e=j.d<252*e.gc9()?j.d/(252*j.r.gc9()):1
@@ -37787,29 +37787,29 @@ s=c.e.c
 r=A.bI("De 0 A 100",e,B.KR,e,e)
 q=A.bz(new A.tX(B.z2,1,B.eL,B.MC,e),e,e)
 c=c.gbW()
-c=A.dw("images/S001.jpg",e,1000*d.d.gc9(),1000*c)
+c=A.dw("assets/images/S001.jpg",e,1000*d.d.gc9(),1000*c)
 p=d.d.gbW()
-p=A.dw("images/S002.jpg",e,1000*d.d.gc9(),1000*p)
+p=A.dw("assets/images/S002.jpg",e,1000*d.d.gc9(),1000*p)
 o=d.d.gbW()
-o=A.dw("images/S003.jpg",e,1000*d.d.gc9(),1000*o)
+o=A.dw("assets/images/S003.jpg",e,1000*d.d.gc9(),1000*o)
 n=d.d.gbW()
-n=A.dw("images/S004.jpg",e,1000*d.d.gc9(),1000*n)
+n=A.dw("assets/images/S004.jpg",e,1000*d.d.gc9(),1000*n)
 m=d.d.gbW()
-m=A.dw("images/S005.jpg",e,1000*d.d.gc9(),1000*m)
+m=A.dw("assets/images/S005.jpg",e,1000*d.d.gc9(),1000*m)
 l=d.d.gbW()
-l=A.dw("images/S006.jpg",e,800*d.d.gc9(),800*l)
+l=A.dw("assets/images/S006.jpg",e,800*d.d.gc9(),800*l)
 k=d.d.gbW()
-k=A.dw("images/S007.jpg",e,1000*d.d.gc9(),1000*k)
+k=A.dw("assets/images/S007.jpg",e,1000*d.d.gc9(),1000*k)
 j=d.d.gbW()
-j=A.dw("images/S008.jpg",e,1000*d.d.gc9(),1000*j)
+j=A.dw("assets/images/S008.jpg",e,1000*d.d.gc9(),1000*j)
 i=d.d.gbW()
-i=A.dw("images/S009.jpg",e,1000*d.d.gc9(),1000*i)
+i=A.dw("assets/images/S009.jpg",e,1000*d.d.gc9(),1000*i)
 h=d.d.gbW()
-h=A.dw("images/S010.jpg",e,1000*d.d.gc9(),1000*h)
+h=A.dw("assets/images/S010.jpg",e,1000*d.d.gc9(),1000*h)
 g=d.d.gbW()
-g=A.dw("images/S011.jpg",e,1000*d.d.gc9(),1000*g)
+g=A.dw("assets/images/S011.jpg",e,1000*d.d.gc9(),1000*g)
 f=d.d.gbW()
-return A.bS(B.K,A.cB(A.a([new A.qZ("",B.l,r,e),q,B.ah,B.MH,c,B.ah,B.Mw,p,B.ah,B.Mz,o,B.ah,B.Mv,n,B.ah,B.MF,m,B.ah,B.MB,l,B.ah,B.Mx,k,B.ah,B.My,j,B.ah,B.ME,i,B.ah,B.MG,h,B.ah,B.MD,g,B.ah,B.MA,A.dw("images/S012.jpg",e,1000*d.d.gc9(),1000*f),B.l8,B.MI,A.ahz(B.MJ,new A.acG(a),e)],t.p),B.v,B.U,B.u),B.m,e,e,e,e,e,e,s,e,e,e)},
+return A.bS(B.K,A.cB(A.a([new A.qZ("",B.l,r,e),q,B.ah,B.MH,c,B.ah,B.Mw,p,B.ah,B.Mz,o,B.ah,B.Mv,n,B.ah,B.MF,m,B.ah,B.MB,l,B.ah,B.Mx,k,B.ah,B.My,j,B.ah,B.ME,i,B.ah,B.MG,h,B.ah,B.MD,g,B.ah,B.MA,A.dw("assets/images/S012.jpg",e,1000*d.d.gc9(),1000*f),B.l8,B.MI,A.ahz(B.MJ,new A.acG(a),e)],t.p),B.v,B.U,B.u),B.m,e,e,e,e,e,e,s,e,e,e)},
 $S:272}
 A.acG.prototype={
 $0(){A.wj(this.a).Mb(null)},
@@ -37868,7 +37868,7 @@ I(a){var s,r,q=null,p="Editorial Tinta de Luz"
 new A.fM(a).hJ(a)
 s=a.L(t.w).f
 r=t.p
-return A.bS(q,A.cB(A.a([new A.i2(1,B.ca,A.cB(A.a([A.bz(A.dw("images/logo_editorial.png",q,q,q),260,200),A.fl(p,B.aQ)],r),B.v,B.U,B.u),q),new A.i2(1,B.ca,A.bS(q,A.cB(A.a([A.cB(A.a([A.bz(A.dY(A.a([A.bI("Correcci\xf3n y dise\xf1o interno: ",q,B.bx,q,q),A.fl(p,B.aQ)],r),B.v,B.U,B.u),q,q),B.cx,A.bz(A.dY(A.a([A.bI("Edici\xf3n: ",q,B.bx,q,q),A.fl("Alberto Vizcarra",B.aQ)],r),B.v,B.U,B.u),q,q),B.cx,A.bz(A.dY(A.a([A.bI("Dise\xf1o de portada: ",q,B.bx,q,q),A.fl("Alejandro Ortega",B.aQ)],r),B.v,B.U,B.u),q,q),B.cx,A.bz(A.dY(A.a([A.bI("Concepto de portada: ",q,B.bx,q,q),A.fl("Ivan Rubio",B.aQ)],r),B.v,B.U,B.u),q,q)],r),B.v,B.Q,B.u)],r),B.v,B.U,B.u),B.m,q,q,q,q,q,q,B.mW,q,q,q),q)],r),B.v,B.U,B.u),B.m,B.mw,q,q,q,550,q,q,q,q,s.a.a)}}
+return A.bS(q,A.cB(A.a([new A.i2(1,B.ca,A.cB(A.a([A.bz(A.dw("assets/images/logo_editorial.png",q,q,q),260,200),A.fl(p,B.aQ)],r),B.v,B.U,B.u),q),new A.i2(1,B.ca,A.bS(q,A.cB(A.a([A.cB(A.a([A.bz(A.dY(A.a([A.bI("Correcci\xf3n y dise\xf1o interno: ",q,B.bx,q,q),A.fl(p,B.aQ)],r),B.v,B.U,B.u),q,q),B.cx,A.bz(A.dY(A.a([A.bI("Edici\xf3n: ",q,B.bx,q,q),A.fl("Alberto Vizcarra",B.aQ)],r),B.v,B.U,B.u),q,q),B.cx,A.bz(A.dY(A.a([A.bI("Dise\xf1o de portada: ",q,B.bx,q,q),A.fl("Alejandro Ortega",B.aQ)],r),B.v,B.U,B.u),q,q),B.cx,A.bz(A.dY(A.a([A.bI("Concepto de portada: ",q,B.bx,q,q),A.fl("Ivan Rubio",B.aQ)],r),B.v,B.U,B.u),q,q)],r),B.v,B.Q,B.u)],r),B.v,B.U,B.u),B.m,q,q,q,q,q,q,B.mW,q,q,q),q)],r),B.v,B.U,B.u),B.m,B.mw,q,q,q,550,q,q,q,q,s.a.a)}}
 A.vm.prototype={
 a7(){return new A.Mx(B.j)}}
 A.Mx.prototype={
@@ -37880,7 +37880,7 @@ a.L(k).toString
 a.L(k).toString
 s=m.a.c
 k=a.L(k).f
-r=A.bz(A.dw("images/bookamz.png",l,l,l),340,340)
+r=A.bz(A.dw("assets/images/bookamz.png",l,l,l),340,340)
 q=t._s
 q=A.CE(l,l,new A.e2(new A.abj(),q),l,l,l,new A.e2(new A.abk(),q),l,l,l,l,l,l,l,new A.c3(new A.cd(A.T6(10),B.lS),t.xx),l,l,l,l,l,l)
 q=A.bz(A.ahz(A.bI("Ver".toUpperCase(),l,B.wz,l,l),new A.abl(a),q),50,150)
@@ -37891,7 +37891,7 @@ n=t.p
 o=A.jM(B.bf,A.a([new A.cF(B.aA,A.bz(A.cB(A.a([r,B.f1,q,B.ah,new A.cF(B.At,A.a2S(l,l,B.bv,l,l,!0,l,A.ch(A.a([p,A.ch(l,A.fp(l,l,l,l,l,l,l,l,"Bebas",l,l,24,l,l,B.cb,o,l,!0,l,2,l,l,l,l,l,l),"De 0 a 100: "),A.ch(l,A.v7(B.i,12*m.d.gc9(),B.b_),"Gu\xeda para tu libertad financiera")],t.VO),l,l),B.la,l,l,1,B.ay),l)],n),B.v,B.U,B.u),550,550),l)],n),B.L,B.b6)
 p=m.d.gbW()
 q=m.d.gc9()
-return A.ST(A.bS(B.K,A.cB(A.a([new A.i2(4,B.ca,o,l),A.cB(A.a([A.bz(A.dw("images/ivanphotoEdit.png",l,l,l),500*q,500*p)],n),B.v,B.U,B.d6)],n),B.v,B.Q,B.u),B.m,B.H,l,l,l,1050,l,l,l,l,k.a.a),l,s,0,B.wL)}}
+return A.ST(A.bS(B.K,A.cB(A.a([new A.i2(4,B.ca,o,l),A.cB(A.a([A.bz(A.dw("assets/images/ivanphotoEdit.png",l,l,l),500*q,500*p)],n),B.v,B.U,B.d6)],n),B.v,B.Q,B.u),B.m,B.H,l,l,l,1050,l,l,l,l,k.a.a),l,s,0,B.wL)}}
 A.abl.prototype={
 $0(){var s=A.ai1(new A.abi(),null,t.z)
 A.wj(this.a).lo(s)},
@@ -37946,7 +37946,7 @@ n.hJ(a)
 this.d=n
 n=a.L(t.w).f
 s=t.p
-r=A.kq(A.cB(A.a([A.bz(A.dw("images/logo_editorial.png",p,p,p),260,200),A.fl(o,B.aQ)],s),B.v,B.U,B.u),p,p)
+r=A.kq(A.cB(A.a([A.bz(A.dw("assets/images/logo_editorial.png",p,p,p),260,200),A.fl(o,B.aQ)],s),B.v,B.U,B.u),p,p)
 q=this.d.gbW()
 return A.bS(p,A.dY(A.a([new A.i2(3,B.ca,r,p),A.bS(p,p,B.m,B.i,p,p,p,250*this.d.gc9(),p,p,p,p,q),new A.i2(3,B.ca,A.kq(A.bS(B.K,A.cB(A.a([A.dY(A.a([A.bI("Correcci\xf3n y dise\xf1o interno: ",p,B.bx,p,p),A.fl(o,B.aQ)],s),B.v,B.U,B.u),B.cx,A.dY(A.a([A.bI("Edici\xf3n: ",p,B.bx,p,p),A.fl("Alberto Vizcarra",B.aQ)],s),B.v,B.U,B.u),B.cx,A.dY(A.a([A.bI("Dise\xf1o de portada: ",p,B.bx,p,p),A.fl("Alejandro Ortega",B.aQ)],s),B.v,B.U,B.u),B.cx,A.dY(A.a([A.bI("Concepto de portada: ",p,B.bx,p,p),A.fl("Ivan Rubio",B.aQ)],s),B.v,B.U,B.u)],s),B.v,B.U,B.u),B.m,p,p,p,p,p,p,B.mW,p,p,p),p,p),p)],s),B.v,B.hN,B.u),B.m,B.mw,p,p,p,350,p,p,p,p,n.a.a)}}
 A.xR.prototype={
@@ -37974,7 +37974,7 @@ a.L(k).toString
 a.L(k).toString
 s=m.a.c
 k=a.L(k).f
-r=A.bz(A.dw("images/bookamz.png",l,l,l),340,340)
+r=A.bz(A.dw("assets/images/bookamz.png",l,l,l),340,340)
 q=t._s
 q=A.CE(l,l,new A.e2(new A.abn(),q),l,l,l,new A.e2(new A.abo(),q),l,l,l,l,l,l,l,new A.c3(new A.cd(A.T6(10),B.lS),t.xx),l,l,l,l,l,l)
 q=A.bz(A.ahz(A.bI("Ver".toUpperCase(),l,B.wz,l,l),new A.abp(a),q),50,150)
@@ -37982,7 +37982,7 @@ p=A.ch(l,A.v7(B.i,12*m.d.gc9(),B.b_),u.X)
 o=$.ag().b3()
 o.slJ(A.Fg(B.tR,B.tT,A.a([B.mz,B.mv],t.t_),l,B.bX,l))
 n=t.p
-return A.ST(A.bS(B.K,A.dY(A.a([new A.i2(4,B.ca,A.jM(B.bf,A.a([new A.cF(B.aA,A.bz(A.cB(A.a([r,B.f1,q,B.f1,A.a2S(l,l,B.bv,l,l,!0,l,A.ch(A.a([p,A.ch(l,A.fp(l,l,l,l,l,l,l,l,"Bebas",l,l,24,l,l,B.cb,o,l,!0,l,2,l,l,l,l,l,l),"De 0 a 100: "),A.ch(l,A.v7(B.i,12*m.d.gc9(),B.b_),"Gu\xeda para tu libertad financiera")],t.VO),l,l),B.bb,l,l,1,B.ay)],n),B.v,B.U,B.u),550,550),l)],n),B.L,B.b6),l),A.jM(B.bf,A.a([A.bz(A.dw("images/ivanphotoEdit.png",l,l,l),550,550)],n),B.L,B.b6)],n),B.v,B.hN,B.u),B.m,B.H,l,l,l,550,l,l,l,l,k.a.a),l,s,0,B.wL)}}
+return A.ST(A.bS(B.K,A.dY(A.a([new A.i2(4,B.ca,A.jM(B.bf,A.a([new A.cF(B.aA,A.bz(A.cB(A.a([r,B.f1,q,B.f1,A.a2S(l,l,B.bv,l,l,!0,l,A.ch(A.a([p,A.ch(l,A.fp(l,l,l,l,l,l,l,l,"Bebas",l,l,24,l,l,B.cb,o,l,!0,l,2,l,l,l,l,l,l),"De 0 a 100: "),A.ch(l,A.v7(B.i,12*m.d.gc9(),B.b_),"Gu\xeda para tu libertad financiera")],t.VO),l,l),B.bb,l,l,1,B.ay)],n),B.v,B.U,B.u),550,550),l)],n),B.L,B.b6),l),A.jM(B.bf,A.a([A.bz(A.dw("assets/images/ivanphotoEdit.png",l,l,l),550,550)],n),B.L,B.b6)],n),B.v,B.hN,B.u),B.m,B.H,l,l,l,550,l,l,l,l,k.a.a),l,s,0,B.wL)}}
 A.abp.prototype={
 $0(){var s=A.ai1(new A.abm(),null,t.z)
 A.wj(this.a).lo(s)},
