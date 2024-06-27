@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- 
+  Dev. EmberMingle Mobile 
+  Email. support@emberminglemobile.com
+  -->
+
   <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
@@ -36,26 +41,45 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '2408181489';
+    var serviceWorkerVersion = '3672570880';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
+  <style>
+    body {
+      margin: 0;
+    }
+
+    .main-content {
+      transition: opacity .4s ease-out;
+    }
+
+  </style>
   <script>
+    function delay(time) {
+      return new Promise(resolve => setTimeout(resolve, time));
+    }
+
     window.addEventListener('load', function(ev) {
+      var loaderContent = document.querySelector('#loader-content');
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
         serviceWorker: {
           serviceWorkerVersion: serviceWorkerVersion,
         },
         onEntrypointLoaded: function(engineInitializer) {
-          engineInitializer.initializeEngine().then(function(appRunner) {
-            appRunner.runApp();
+          engineInitializer.initializeEngine().then(async function(appRunner) {
+            loaderContent.style.opacity = "0";
+            await delay(400);
+            await appRunner.runApp();
           });
         }
       });
     });
   </script>
+  <div class="main-content" id="loader-content">
+  </div>
 </body>
 </html>
